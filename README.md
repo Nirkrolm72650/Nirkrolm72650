@@ -26,7 +26,7 @@
 ---
 
 ### 📂 Projets
-- [Outil d'automatisation pour le pentesting](https://github.com/tonRepo/OutilPentesting) : Un programme en développement qui regroupe plusieurs modules (analyse de ports, détection de vulnérabilités, etc.) pour accélérer et automatiser certaines tâches lors des tests de pénétration.  
+- [Outil d'automatisation pour le pentesting](https://github.com/Nirkrolm72650/sekurus) : Un programme en développement qui regroupe plusieurs modules (analyse de ports, détection de vulnérabilités, etc.) pour accélérer et automatiser certaines tâches lors des tests de pénétration.  
   **Tech :** Python, SIEM (Wazuh, ELK, Splunk à venir), API
 
 
@@ -45,8 +45,8 @@
 ---
 
 ### 📬 Contact
-- LinkedIn : [tonProfilLinkedIn](https://linkedin.com/in/brandonguyon)
+- LinkedIn : [Mon LinkedIn](https://linkedin.com/in/brandonguyon)
 - Email : [guyonbrandon@outlook.fr](mailto:guyonbrandon@outlook.fr)
-- TryHackMe : [tonProfilTryHackMe](https://tryhackme.com/p/Nirkrolml)
+- TryHackMe : [Mon Profil TryHackMe](https://tryhackme.com/p/Nirkrolm)
 
 ---
