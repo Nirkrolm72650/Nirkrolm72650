@@ -1,26 +1,52 @@
----
-
 # 👋 Bienvenue sur mon profil GitHub !
 
-👨‍💻 **Étudiant en BTS SIO SISR**  
-🎓 **Objectif :** Bachelor en Administration d'Infrastructure Sécurisée (Bac +3 / +4), suivi d'un Mastère en Cybersécurité  
-💼 **Ambition :** Devenir Analyste SOC en cybersécurité
+- 🎓 **Étudiant en BTS SIO, option SISR** et technicien informatique en alternance chez Via Formation.
+- 📈 **Projet de carrière** : poursuivre en Bachelor Administration Système/Réseau et Cybersécurité pour devenir Analyste SOC.
+- 💼 **Expérience** : support utilisateur, gestion de parc informatique, préparation autonome de matériel pour interventions.
+- 🔧 **Compétences** : rigueur, adaptabilité, gestion du stress.
+- 📚 **Auto-formation** en cybersécurité et programmation Python pour l’automatisation de tâches de sécurité.
+- 🔍 **Projets personnels** : développement d’outils de pentesting et d’analyse de logs pour détecter les attaques.
+- 🔐 **SIEM** : formation en cours sur Wazuh, avec une ouverture vers ELK et Splunk pour approfondir mes connaissances.
+- ⚖️ **Aspects juridiques** : notions de protection des données personnelles et réglementation en cybersécurité.
 
 ---
 
 ### 📚 À propos de moi :
 - 🔍 **Passionné de Cybersécurité** et de gestion des infrastructures informatiques
 - 🌱 Actuellement, je suis en alternance en tant que technicien informatique
-- 🛠️ En apprentissage sur **Python, ,** et d'autres outils pour automatiser et sécuriser les systèmes
+- 🤖 En apprentissage sur **Python**, et d'autres outils pour automatiser et sécuriser les systèmes
 
-### 🚀 Mes objectifs :
-- 🎯 **Continuer mon parcours en cybersécurité** jusqu’au niveau Mastère
-- 🤖 **Contribuer aux projets open-source**, particulièrement dans les domaines de la sécurité et du web
+---
 
-### 🔗 Badges
+### 🛠 Compétences
+- **Langages :** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- **Cybersécurité :** ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+- **Outils & Bases de données :** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirkrolm72650)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonguyon/) 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Nirkrolm)  
+---
+
+### 📂 Projets
+- [Outil d'automatisation pour le pentesting](https://github.com/tonRepo/OutilPentesting) : Un programme en développement qui regroupe plusieurs modules (analyse de ports, détection de vulnérabilités, etc.) pour accélérer et automatiser certaines tâches lors des tests de pénétration.  
+  **Tech :** Python, SIEM (Wazuh, ELK, Splunk à venir), API
+
+
+---
+
+### 📜 Certifications & Formations
+- 🎓 **Formation SOC Analyst** sur [TryHackMe](https://tryhackme.com)  
+- 💻 **En cours :** Introduction à l'ELK Stack et Splunk
+
+---
+
+### 📊 Statistiques GitHub
+![Tes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Nirkrolm72650&show_icons=true&theme=radical)
+![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirkrolm72650&layout=compact&theme=radical)
+
+---
+
+### 📬 Contact
+- LinkedIn : [tonProfilLinkedIn](https://linkedin.com/in/brandonguyon)
+- Email : [guyonbrandon@outlook.fr](mailto:guyonbrandon@outlook.fr)
+- TryHackMe : [tonProfilTryHackMe](https://tryhackme.com/p/Nirkrolml)
 
 ---
