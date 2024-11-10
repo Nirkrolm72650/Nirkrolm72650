@@ -26,8 +26,8 @@
 ---
 
 ### 📂 Projets
-- [Outil d'automatisation pour le pentesting](https://github.com/Nirkrolm72650/sekurus) : Un programme en développement qui regroupe plusieurs modules (analyse de ports, détection de vulnérabilités, etc.) pour accélérer et automatiser certaines tâches lors des tests de pénétration.  
-  **Tech :** Python, SIEM (Wazuh, ELK, Splunk à venir), API
+- [Visioneuse MISP en temps réel](https://github.com/Nirkrolm72650/mispview) : MISPView => Une visionneuse en temps réel via la récupération d'informations via l'API de MISP
+  **Tech :** Python, MISP API, Flask, HTML, CSS, Chart.js
 
 
 ---
