@@ -26,7 +26,7 @@
 ---
 
 ### 📂 Projets
-- [Visioneuse MISP en temps réel](https://github.com/Nirkrolm72650/mispview) : MISPView => Une visionneuse en temps réel via la récupération d'informations via l'API de MISP
+- [Projets en python](https://github.com/Nirkrolm72650/mispview) : Petits projets permettant l'apprentissage du langage python
   **Tech :** Python, MISP API, Flask, HTML, CSS, Chart.js
 
 
