@@ -5,7 +5,7 @@
 - 💼 **Expérience** : support utilisateur, gestion de parc informatique, préparation autonome de matériel pour interventions.
 - 🔧 **Compétences** : rigueur, adaptabilité, gestion du stress.
 - 📚 **Auto-formation** en cybersécurité et programmation Python pour l’automatisation de tâches de sécurité.
-- 🔍 **Projets personnels** : développement d’outils de pentesting et d’analyse de logs pour détecter les attaques.
+- 🔍 **Projets personnels** : développement de programme pour l'apprentissage du langage python
 - 🔐 **SIEM** : formation en cours sur Wazuh, avec une ouverture vers ELK et Splunk pour approfondir mes connaissances.
 - ⚖️ **Aspects juridiques** : notions de protection des données personnelles et réglementation en cybersécurité.
 
@@ -33,8 +33,8 @@
 ---
 
 ### 📜 Certifications & Formations
-- 🎓 **Formation SOC Analyst** sur [TryHackMe](https://tryhackme.com)  
-- 💻 **En cours :** Introduction à l'ELK Stack et Splunk
+- 🎓 **Formation SOC Analyst** sur [TryHackMe](https://tryhackme.com)  - Stand by
+- 💻 **En cours :** Formation python
 
 ---
 
