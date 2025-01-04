@@ -34,6 +34,7 @@
 
 ### 📜 Certifications & Formations
 - 🎓 **Formation SOC Analyst** sur [TryHackMe](https://tryhackme.com)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Nirkrolm.png" alt="Your Image Badge" />
 - 💻 **En cours :** Formation python
 
 ---
@@ -49,6 +50,6 @@
 - Email : [guyonbrandon@outlook.fr](mailto:guyonbrandon@outlook.fr)
 - TryHackMe : [Mon Profil TryHackMe](https://tryhackme.com/p/Nirkrolm)
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/Nirkrolm.png" alt="Your Image Badge" />
+
 
 
