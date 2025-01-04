@@ -33,7 +33,7 @@
 ---
 
 ### 📜 Certifications & Formations
-- 🎓 **Formation SOC Analyst** sur [TryHackMe](https://tryhackme.com)  - Stand by
+- 🎓 **Formation SOC Analyst** sur [TryHackMe](https://tryhackme.com)
 - 💻 **En cours :** Formation python
 
 ---
@@ -48,5 +48,5 @@
 - LinkedIn : [Mon LinkedIn](https://linkedin.com/in/brandonguyon)
 - Email : [guyonbrandon@outlook.fr](mailto:guyonbrandon@outlook.fr)
 - TryHackMe : [Mon Profil TryHackMe](https://tryhackme.com/p/Nirkrolm)
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2608418" style='border:none;'></iframe>
 ---
