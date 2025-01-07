@@ -1,12 +1,11 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
 - 🎓 **Étudiant en BTS SIO, option SISR** et technicien informatique en alternance chez Via Formation.
-- 📈 **Projet de carrière** : poursuivre en Bachelor Administration Système/Réseau et Cybersécurité pour devenir Analyste SOC.
+- 📈 **Projet de carrière** : poursuivre en Bachelor Administration Système/Réseau et Cybersécurité et poursuivre en master pour devenir Analyste SOC.
 - 💼 **Expérience** : support utilisateur, gestion de parc informatique, préparation autonome de matériel pour interventions.
 - 🔧 **Compétences** : rigueur, adaptabilité, gestion du stress.
-- 📚 **Auto-formation** en cybersécurité et programmation Python pour l’automatisation de tâches de sécurité.
+- 📚 **Auto-formation** Plateforme TryHackMe et apprentissage du langage Python pour l’automatisation de tâches.
 - 🔍 **Projets personnels** : développement de programme pour l'apprentissage du langage python
-- 🔐 **SIEM** : formation en cours sur Wazuh, avec une ouverture vers ELK et Splunk pour approfondir mes connaissances.
 - ⚖️ **Aspects juridiques** : notions de protection des données personnelles et réglementation en cybersécurité.
 
 ---
