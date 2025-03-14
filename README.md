@@ -5,7 +5,7 @@
 - 💼 **Expérience** : support utilisateur, gestion de parc informatique, préparation autonome de matériel pour interventions.
 - 🔧 **Compétences** : rigueur, adaptabilité, gestion du stress.
 - 📚 **Auto-formation** Plateforme TryHackMe et apprentissage du langage Python pour l’automatisation de tâches.
-- 🔍 **Projets personnels** : développement de programme pour l'apprentissage du langage python
+- 🔍 **Projets personnels** : développement de programme pour l'apprentissage du langage python + Création d'une infrastructure d'une entreprise fictive.
 - ⚖️ **Aspects juridiques** : notions de protection des données personnelles et réglementation en cybersécurité.
 
 ---
