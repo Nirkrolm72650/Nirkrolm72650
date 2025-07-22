@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-- 🎓 **Étudiant en BTS SIO, option SISR** et technicien informatique en alternance chez Via Formation.
+- 🎓 **Étudiant en Bachelor Administrateur d'Infrastructures Sécurisées** et en alternance en tant qu'auditeur cybersécurité.
 - 📈 **Projet de carrière** : poursuivre en Bachelor Administration Système/Réseau et Cybersécurité et poursuivre en master pour devenir Analyste SOC.
 - 💼 **Expérience** : support utilisateur, gestion de parc informatique, préparation autonome de matériel pour interventions.
 - 🔧 **Compétences** : rigueur, adaptabilité, gestion du stress.
@@ -12,7 +12,7 @@
 
 ### 📚 À propos de moi :
 - 🔍 **Passionné de Cybersécurité** et de gestion des infrastructures informatiques
-- 🌱 Actuellement, je suis en alternance en tant que technicien informatique
+- 🌱 Actuellement, je suis en alternance en tant qu'auditeur cybersécurité
 - 🤖 En apprentissage sur **Python**, et d'autres outils pour automatiser et sécuriser les systèmes
 
 ---
