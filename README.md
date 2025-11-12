@@ -27,9 +27,7 @@
 ### 📂 Projets
 - [Projets en python](https://github.com/Nirkrolm72650/python-projects ) : Petits projets permettant l'apprentissage du langage python + langage backend tels que le Flask ainsi que la manipulation d'API
   **Tech :** Python, API, Flask, HTML, CSS
-- 🧰 Projets Linux (Administration Système) :
-     Travaux pratiques et projets d’administration système Linux : automatisation, configuration réseau, services système, sécurité, scripts Bash.
-     Tech : Linux, Bash, SSH, Cron, Apache/Nginx, Systemd
+- 🧰  [Projets Linux](https://github.com/Nirkrolm72650/linux-projects ) (Administration Système) : Travaux pratiques et projets d’administration système Linux : automatisation, configuration réseau, services système, sécurité, scripts Bash.
 
 ---
 
