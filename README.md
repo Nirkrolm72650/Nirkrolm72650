@@ -2,7 +2,7 @@
 
 - 🎓 **Étudiant en Bachelor Administrateur d'Infrastructures Sécurisées** et en alternance en tant qu'auditeur cybersécurité.
 - 📈 **Projet de carrière** : Devenir Administrateur Système Linux.
-- 💼 **Expérience** : support utilisateur, gestion de parc informatique, préparation autonome de matériel pour interventions et amélioration de la SSI.
+- 💼 **Expérience** : support utilisateur, gestion de parc informatique et amélioration de la SSI.
 - 🔧 **Compétences** : rigueur, adaptabilité, autonomie et gestion du stress.
 - 📚 **Auto-formation** Préparation à la certification LFCA (Linux Foundation Certified IT Associate) et à la CCNA (Cisco Certified Network Associate).
 - 🔍 **Projets personnels** : Apprentissage du scripting Bash et Python pour l’automatisation, et déploiement d’environnements Linux complets en virtualisation.
